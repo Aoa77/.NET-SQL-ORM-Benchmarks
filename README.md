@@ -1,5 +1,3 @@
-# dotnet-sql-orm-benchmarks
-
 # .NET SQL ORM Benchmarks
 
 This project benchmarks various SQL Object-Relational Mappers (ORMs) in .NET to evaluate their performance and efficiency.
